@@ -10,10 +10,10 @@ Pneumonia is an inflammatory condition of the lung primarily affecting the small
 
 This project uses Residual Network (ResNet) via transfer learning, a popular neural network model for image classification. The dataset was obtained from Kaggle, consisting of around 6,000 images. The problem in this dataset is data class imbalance due to the difference between the number of 'normal' images and 'pneumonia' images, which has to be overcome by using weighted loss.
 
-# Content
-- Click [here]() to view the project (.ipynb).
-- Click [here]() to view the raw code (.py).
-- Click [here]() to view the Kaggle dataset.
+## Content
+- Click [here](https://github.com/chan030609/resnet-pneumonia-detection/resnet-pneumonia-detection.ipynb) to view the project (.ipynb).
+- Click [here](https://github.com/chan030609/resnet-pneumonia-detection/resnet-pneumonia-detection.py) to view the raw code (.py).
+- Click [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) to view the Kaggle dataset.
 
 ## Technology Used
 - Google Colab Jupyter Notebook with GPU Acceleration
