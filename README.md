@@ -1,8 +1,7 @@
 # resnet-pneumonia-detection
+Date: Jan 4, 2021
 
 <img src = 'https://images.emedicinehealth.com/images/article/main_image/bacterial-pneumonia-1.jpg' width="400">
-
-Date: Jan 4, 2021
 
 ## Introduction
 
